@@ -163,3 +163,5 @@ External commands
    credential-helper-selector
    flow
    lfs
+   
+   hello team it's just an trial match
